@@ -4,6 +4,7 @@ Basic Java codes made in Devs2Blu Module 1.
 ## Programs
 
 - [ArrayExercises](#arrayexercises)
+- [ArrayListExercise](#arraylistexercise)
 - [BasicCodes1](#basiccodes1)
 - [BasicCodes2](#basiccodes2)
 - [Conditionals](#conditionals)
@@ -27,6 +28,18 @@ Basic Java codes made in Devs2Blu Module 1.
 8. Sort Array Elements in Ascending Order
 9. Count Elements Greater Than M
 10. Find Second Largest Number in Real Numbers Array
+
+### ArrayListExercise
+1. Add elements to a string list
+2. Print elements of an integer list
+3. Calculate average of a double list
+4. Sort a list of Pessoa objects by age
+5. Remove elements containing 'a' from a string list
+6. Sort a list of Produto objects by price
+7. Calculate intersection of two integer lists
+8. Divide a list of Pessoa objects into two age-based lists
+9. Calculate average grade of a list of Aluno objects
+10. Sort a list of strings in reverse alphabetical order
 
 ### BasicCodes1
 
