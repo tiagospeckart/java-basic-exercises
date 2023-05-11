@@ -67,7 +67,7 @@ public class ArrayExercises {
                 int totalSum = 0;
                 for (int num : intArray) totalSum = totalSum + num;
 
-                int arithmeticMean = totalSum / arrayLength;
+                double arithmeticMean = (double) totalSum / arrayLength;
 
                 System.out.println(Arrays.toString(intArray));
                 System.out.println(arithmeticMean);
@@ -191,7 +191,7 @@ public class ArrayExercises {
         return sb.toString();
     }
 
-    private static double[] randomSignedDoubles(int numberOfDoubles, double lowerBound, double upperBound) {
+    private static double[] randomSignedDoubles(int numberOfDoubles, double upperBound, double lowerBound) {
         double[] doublesArray = new double[numberOfDoubles];
         Random random = new Random();
 
